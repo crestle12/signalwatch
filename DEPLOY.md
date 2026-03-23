@@ -80,7 +80,7 @@ Add or remove tickers. Push to GitHub — Vercel redeploys automatically.
 ## Costs
 
 - Vercel hosting: **free** (Hobby plan is plenty)
-- Yahoo Finance data: **free** (no key needed)
+- Stock data via Yahoo Finance: **free** (no key needed, no daily call limit)
 - Claude analysis: Anthropic API — roughly $0.01–0.03 per analysis.
   A month of daily use costs less than $1.
 
